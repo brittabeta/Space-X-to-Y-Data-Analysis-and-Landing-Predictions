@@ -1,4 +1,13 @@
-# link: https://brittabeta-sturdy-giggle-x5v4g7x7pvcpjww-8050.preview.app.github.dev/
+###### dashboard link: https://brittabeta-sturdy-giggle-x5v4g7x7pvcpjww-8050.preview.app.github.dev/
+###### also see: PDF with analysis and screenshots
+# in terminal: setup
+## python3 -m pip install pandas dash
+## pip3 install httpx==0.20 dash plotly
+## spacex_launch_dash.csv - wget "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/datasets/spacex_launch_dash.csv"
+## download a skeleton dash app: wget "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/labs/module_3/spacex_dash_app.py"
+
+# in terminal: deploy
+## python3 spacex_dash_app.py
 
 # Import required libraries
 import pandas as pd
