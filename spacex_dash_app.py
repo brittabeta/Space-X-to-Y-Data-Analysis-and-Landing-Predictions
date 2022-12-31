@@ -1,5 +1,5 @@
 ###### dashboard link: https://brittabeta-sturdy-giggle-x5v4g7x7pvcpjww-8050.preview.app.github.dev/
-###### also see: PDF with analysis and screenshots
+###### also see: PDF 7 Dashboard with Plotly Dash Launch Success - with analysis and screenshots
 # in terminal: setup
 ## python3 -m pip install pandas dash
 ## pip3 install httpx==0.20 dash plotly
