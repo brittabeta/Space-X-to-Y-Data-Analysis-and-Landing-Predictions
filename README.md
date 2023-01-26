@@ -1,4 +1,4 @@
-# Space-X-to-Y-Data-Analysis-and-Launch-Predictions
+# Space-X-to-Y-Data-Analysis-and-Landing-Predictions
 IBM Data Science Capstone
 
 [Tableau Dashboard Link: Space X to Y Competitive Mission Bidding](https://public.tableau.com/app/profile/britta.smith/viz/SpaceXDashboard_16743477717270/Dashboard1)
